@@ -5,6 +5,6 @@ Built a simple application that generates professional PDF payment receipts.
  - Auto-generated receipt ID and timestamp. 
  - PDF receipt creation.
 # Technologies
-- Python
-- Tkinter
-- Reportlab
+ - Python
+ - Tkinter
+ - Reportlab
